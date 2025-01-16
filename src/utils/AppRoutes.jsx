@@ -5,7 +5,7 @@ import Signup from "../pages/SignUp/Signup.jsx";
 
 const AppRoutes = [
     {
-        path: "/",
+        path: "/home",
         element: <Home/>
     },
     {
